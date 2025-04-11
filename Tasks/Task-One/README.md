@@ -1,0 +1,3 @@
+Microsoft started releasing the first version of the Windows Operating System in the late 1980s. Since the first release of Windows 1.0, the Operating System has evolved into one of the most used operating systems globally. The release of Window 10 displayed a revolution of a new operating system redefining the native applications and features and adding several new functionalities to the operating system.
+
+At the end of 2021, Microsoft released the latest version of the Windows Operating system - Windows 11, with more added features functionalities and a complete change in the Graphical User Interface (GUI).
