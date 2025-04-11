@@ -1,7 +1,7 @@
 # Modern-IT
 This repository contains step-by-step hands-on labs for the CompTIA A+ (220-1102) certification.
 
-## Task-One: Identifying different windows Operating System Editions
+### Task-One: Identifying different windows Operating System Editions
 ## Task-Two: Managing a Windows Device using the Command Line Interface
 ## Task-Three: Managing a Windows device using the Graphical User Interface (GUI)
 ## Task-Four: Configuring a Windows Device using the Control Panel
